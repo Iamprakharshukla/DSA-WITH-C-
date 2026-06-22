@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/prakh/OneDrive/Documents/GitHub/DSA-WITH-C-/Day-2",
-      "program": "c:/Users/prakh/OneDrive/Documents/GitHub/DSA-WITH-C-/Day-2/build/Debug/outDebug",
+      "cwd": "c:/Users/prakh/OneDrive/Documents/GitHub/DSA-WITH-C-/DAY-4",
+      "program": "c:/Users/prakh/OneDrive/Documents/GitHub/DSA-WITH-C-/DAY-4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
