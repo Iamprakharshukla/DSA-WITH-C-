@@ -4,12 +4,13 @@ int main(){
     int n;
     cout<<"Enter the value";
     cin>>n;
-    int count=0;
+   
     int i=0;
     while(i<=n){
         int j=1;
         while(j<=i){
-            cout<<j;
+            cout<<(i-j+1) <<" ";
+            
             j+=1;
         }
         cout<<endl;

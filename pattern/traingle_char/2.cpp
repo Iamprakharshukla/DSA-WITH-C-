@@ -4,12 +4,15 @@ int main(){
     int n;
     cout<<"Enter the value";
     cin>>n;
-    int count=0;
+    char a=('A');
     int i=0;
     while(i<=n){
         int j=1;
         while(j<=i){
-            cout<<j;
+            
+            
+            cout<<a;
+            a=a+1;
             j+=1;
         }
         cout<<endl;

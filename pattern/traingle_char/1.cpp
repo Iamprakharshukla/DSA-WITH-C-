@@ -4,12 +4,14 @@ int main(){
     int n;
     cout<<"Enter the value";
     cin>>n;
-    int count=0;
+
     int i=0;
     while(i<=n){
         int j=1;
         while(j<=i){
-            cout<<j;
+            char a=(65+i-1);
+            
+            cout<<a;
             j+=1;
         }
         cout<<endl;

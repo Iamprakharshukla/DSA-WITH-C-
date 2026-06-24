@@ -4,12 +4,20 @@ int main(){
     int n;
     cout<<"Enter the value";
     cin>>n;
-    int count=0;
+
     int i=0;
     while(i<=n){
+        int space=n-i;
+        while (space){
+            cout<<' ';
+            space=space-1;
+
+        }
         int j=1;
+
+       
         while(j<=i){
-            cout<<j;
+            cout<<'*';
             j+=1;
         }
         cout<<endl;
